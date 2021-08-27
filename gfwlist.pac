@@ -62,6 +62,7 @@ var rules = [
             "penghu-nsa.gov.tw",
             "post.gov.tw",
             "qq.com",
+            "soulapp-inc.cn",
             "simplecd.me",
             "sina.cn",
             "sina.com.cn",
