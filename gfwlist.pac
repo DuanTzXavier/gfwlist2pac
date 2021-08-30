@@ -3,7 +3,7 @@
  * GFWList Last-Modified: 2021-08-12 01:07:10
  */
 
-var proxy = 'PROXY 127.0.0.1:1086;SOCKS5 127.0.0.1:1086;DIRECT';
+var proxy = 'PROXY proxy.soulapp.com.cn:8888';
 var rules = [
     [
         ["soulapp-inc.cn"],
